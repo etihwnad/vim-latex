@@ -257,7 +257,7 @@ let g:environmentshortcuts = ''
 \."\n EAR   ".g:Tex_Leader2."ar   array               ESL   ".g:Tex_Leader2."sl   slide"
 \."\n EDM   ".g:Tex_Leader2."dm   displaymath         EAB   ".g:Tex_Leader2."ab   abstract"
 \."\n EAL   ".g:Tex_Leader2."al   align               EAP   ".g:Tex_Leader2."ap   appendix"
-\."\n EEQ   ".g:Tex_Leader2."eq   equation            ECE   ".g:Tex_Leader2."ce   center"
+\."\n EEQ   ".g:Tex_Leader2."eq   equation            ECN   ".g:Tex_Leader2."ce   center"
 \."\n EDO   ".g:Tex_Leader2."do   document            EFI   ".g:Tex_Leader2."fi   figure"
 \."\n EFC   ".g:Tex_Leader2."fc   filecontents        ELR   ".g:Tex_Leader2."lr   lrbox"
 \."\n EFL   ".g:Tex_Leader2."fl   flushleft           EMP   ".g:Tex_Leader2."mp   minipage"
